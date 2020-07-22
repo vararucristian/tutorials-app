@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\Users_API.csproj": {}
+  },
+  "projects": {
+    "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\Users_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
+        "projectName": "Users_API",
+        "projectPath": "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
+        "packagesPath": "C:\\Users\\varar\\.nuget\\packages\\",
+        "outputPath": "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\obj\\",
+=======
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+    "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\Users_API.csproj": {}
+  },
+  "projects": {
+    "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\Users_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
+        "projectName": "Users_API",
+        "projectPath": "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
+        "packagesPath": "C:\\Users\\varar\\.nuget\\packages\\",
+        "outputPath": "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\obj\\",
+<<<<<<< HEAD
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+<<<<<<< HEAD
+<<<<<<< HEAD
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
