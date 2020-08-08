@@ -2,6 +2,7 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "o0nitq1PSpePwmtjv6X78jKkNevzm6A/Os74lI6X5tlZHCNWiqWU4aDvNTRlgNN32ttsEx9GWJHZcLanni4P5g==",
   "success": true,
   "projectFilePath": "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
@@ -15,6 +16,8 @@
 =======
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
   "dgSpecHash": "6hNEVq7yKbcngRIR1cRn+NIVOy6Nh76/zsq6HyRMCUP8tsFOvU95yq3EAMuBgkLTfaau9BlEALfTX9cl13qcJQ==",
   "success": true,
   "projectFilePath": "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
@@ -22,6 +25,9 @@
     "C:\\Users\\varar\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512",
     "C:\\Users\\varar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.1\\mediatr.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
@@ -120,6 +126,7 @@
   ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "logs": [
     {
       "code": "NU1701",
@@ -152,6 +159,9 @@
       ]
     }
   ]
+=======
+  "logs": []
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
   "logs": []
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf

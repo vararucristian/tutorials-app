@@ -23,6 +23,7 @@ namespace Users_API.Controllers
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     
     [HttpPost]
     public async Task<ActionResult<string>> Authorize([FromBody]AuthenticateUserQuery userCredentials)
@@ -34,6 +35,8 @@ namespace Users_API.Controllers
 =======
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
     [HttpGet("{userName}/{password}")]
     public async Task<ActionResult<string>> Authorize(string userName, string password)
     {
@@ -43,6 +46,9 @@ namespace Users_API.Controllers
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf

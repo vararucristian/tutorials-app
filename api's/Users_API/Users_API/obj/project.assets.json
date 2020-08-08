@@ -26,6 +26,7 @@
       },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.AspNet.Cors/5.2.7": {
         "type": "package",
         "compile": {
@@ -73,6 +74,8 @@
           "lib/net45/System.Web.Http.Cors.dll": {}
         }
       },
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
@@ -1443,6 +1446,7 @@
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Microsoft.AspNet.Cors/5.2.7": {
       "sha512": "r7qTj8SKzHT32F2mbB3qgE+6VUd2xILkGaq4LtMW+KP3dDAQmI//j+8Ku01I3D1GKZvB9PU8HTJPkaw7sxSLtQ==",
       "type": "package",
@@ -1499,6 +1503,8 @@
         "microsoft.aspnet.webapi.cors.nuspec"
       ]
     },
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
@@ -5300,7 +5306,10 @@
       "MediatR.Extensions.Microsoft.DependencyInjection >= 8.0.1",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.AspNet.WebApi.Cors >= 5.2.7",
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
@@ -5320,6 +5329,7 @@
     "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
       "projectName": "Users_API",
       "projectPath": "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
@@ -5328,12 +5338,17 @@
 =======
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
       "projectUniqueName": "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
       "projectName": "Users_API",
       "projectPath": "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\Users_API.csproj",
       "packagesPath": "C:\\Users\\varar\\.nuget\\packages\\",
       "outputPath": "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\obj\\",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
@@ -5373,10 +5388,13 @@
           },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Microsoft.AspNet.WebApi.Cors": {
             "target": "Package",
             "version": "[5.2.7, )"
           },
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
@@ -5427,6 +5445,7 @@
     }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   },
   "logs": [
     {
@@ -5460,6 +5479,9 @@
       ]
     }
   ]
+=======
+  }
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
   }
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf

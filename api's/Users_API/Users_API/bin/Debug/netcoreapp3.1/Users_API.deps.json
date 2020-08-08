@@ -28,7 +28,10 @@
           "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.1",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           "Microsoft.AspNet.WebApi.Cors": "5.2.7",
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
@@ -343,6 +346,7 @@
       },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.AspNet.Cors/5.2.7": {
         "runtime": {
           "lib/net45/System.Web.Cors.dll": {
@@ -398,6 +402,8 @@
           "lib/net45/System.Web.Http.Cors.dll": {}
         }
       },
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
@@ -3005,6 +3011,7 @@
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Microsoft.AspNet.Cors/5.2.7": {
       "type": "package",
       "serviceable": true,
@@ -3033,6 +3040,8 @@
       "path": "microsoft.aspnet.webapi.cors/5.2.7",
       "hashPath": "microsoft.aspnet.webapi.cors.5.2.7.nupkg.sha512"
     },
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======

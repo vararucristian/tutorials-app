@@ -60,6 +60,7 @@ D:\Angular_Projects\social-media-app\api's\Users_API\Users_API\obj\Debug\netcore
 D:\Angular_Projects\social-media-app\api's\Users_API\Users_API\obj\Debug\netcoreapp3.1\Users_API.MvcApplicationPartsAssemblyInfo.cache
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\Angular_Projects\tutorials-app\api's\Users_API\Users_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Angular_Projects\tutorials-app\api's\Users_API\Users_API\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Angular_Projects\tutorials-app\api's\Users_API\Users_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -124,6 +125,8 @@ D:\Angular_Projects\tutorials-app\api's\Users_API\Users_API\bin\Debug\netcoreapp
 D:\Angular_Projects\tutorials-app\api's\Users_API\Users_API\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
 D:\Angular_Projects\tutorials-app\api's\Users_API\Users_API\obj\Debug\netcoreapp3.1\Users_API.csproj.CoreCompileInputs.cache
 D:\Angular_Projects\tutorials-app\api's\Users_API\Users_API\obj\Debug\netcoreapp3.1\Users_API.MvcApplicationPartsAssemblyInfo.cache
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======

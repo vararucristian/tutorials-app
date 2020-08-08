@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
+=======
+﻿{
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 ﻿{
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
@@ -30,7 +34,11 @@
       "launchBrowser": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "launchUrl": "api/users",
+=======
+      "launchUrl": "weatherforecast",
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
       "launchUrl": "weatherforecast",
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf

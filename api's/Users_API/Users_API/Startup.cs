@@ -21,7 +21,10 @@ namespace Users_API
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
+<<<<<<< HEAD
 
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
       services.AddControllers();
 
       services.AddSingleton<IConfiguration>(Configuration);
@@ -41,7 +44,10 @@ namespace Users_API
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {
+<<<<<<< HEAD
 
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
       if (env.IsDevelopment())
       {
         app.UseDeveloperExceptionPage();
@@ -49,8 +55,11 @@ namespace Users_API
 
       app.UseHttpsRedirection();
 
+<<<<<<< HEAD
       app.UseCors(builder => builder.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod());
 
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
       app.UseRouting();
 
       app.UseAuthorization();

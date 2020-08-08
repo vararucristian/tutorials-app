@@ -3,6 +3,7 @@
   "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "D:\\Angular_Projects\\tutorials-app\\api's\\Users_API\\Users_API\\Users_API.csproj": {}
   },
   "projects": {
@@ -17,6 +18,8 @@
 =======
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
     "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\Users_API.csproj": {}
   },
   "projects": {
@@ -29,6 +32,9 @@
         "packagesPath": "C:\\Users\\varar\\.nuget\\packages\\",
         "outputPath": "D:\\Angular_Projects\\social-media-app\\api's\\Users_API\\Users_API\\obj\\",
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
+=======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
@@ -68,10 +74,13 @@
             },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "Microsoft.AspNet.WebApi.Cors": {
               "target": "Package",
               "version": "[5.2.7, )"
             },
+=======
+>>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
 >>>>>>> e8f90eb5f83bf7694033df1554170043a7fc9ebf
 =======
